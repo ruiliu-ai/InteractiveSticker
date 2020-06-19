@@ -1,8 +1,7 @@
 # Interactive Sticker
 This is a toolbox for improving online teaching by copying and pasting images, texts and emoji. You can also drag them to anywhere in your desktop, zoom in and out, close single one and clear them all. Besides, you can customize your emoji by inputing the unicode. 
-![main](files/main.png)
-![ico](files/ico.png)
-![input](files/input.png)
+
+![main](files/intro.png)
 
 # Setup
 ```shell
